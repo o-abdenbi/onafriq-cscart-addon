@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/Tygh/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/advanced_import" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/anti_fraud" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/barcode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/call_requests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/discussion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/ebay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/email_marketing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/gdpr" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/geo_maps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/gift_certificates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/hybrid_auth" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/hybrid_auth/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/mobile_app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/onboarding_guide" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/paypal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/paypal_checkout" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/pingpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/pingpp/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/price_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/product_reviews" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/product_variations/src" isTestSource="false" packagePrefix="Tygh" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/recaptcha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/reward_points" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/rma" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/searchanise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/seo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/shopify_import" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/store_locator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/storefront_rest_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/stripe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/suppliers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/tilda_pages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/warehouses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/wishlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/addons/zapier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/app/lib/other" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/install/app" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
