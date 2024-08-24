@@ -8,7 +8,7 @@
 
     <functions>
         <item for="install">fn_onafriq_integration_add_payment_processors</item>
-        <item for="uninstall">fn_onafriq_integration_add_payment_processors</item>
+        <item for="uninstall">fn_onafriq_integration_delete_payment_processors</item>
     </functions>
 
     <settings edition_type="ROOT,STOREFRONT">
@@ -16,10 +16,79 @@
             <section id="general">
                 <name>General</name>
                 <items>
-                    <item id="base_url">
-                        <name>Base URL</name>
+                    <item id="payment_currency">
+                        <name>Payment Currency</name>
+                        <type>selectbox</type>
+                        <variants>
+                            <item id="USD">
+                                <name>American Dollar</name>
+                            </item>
+                            <item id="DKK">
+                                <name>Danish Krone</name>
+                            </item>
+                        </variants>
+                    </item>
+                    <item id="test_base_url">
+                        <name>Test Base URL</name>
                         <type>input</type>
-                        <default>https://api.onafriq.com/api</default>
+                        <default_value>https://secure-test.viabill.com</default_value>
+                    </item>
+                    <item id="prod_base_url">
+                        <name>Prod Base URL</name>
+                        <type>input</type>
+                        <default_value>https://secure.viabill.com</default_value>
+                    </item>
+                    <item id="api_protocol">
+                        <name>API Protocol</name>
+                        <type>input</type>
+                        <default_value>3.0</default_value>
+                    </item>
+                    <item id="api_key">
+                        <name>API Key</name>
+                        <type>input</type>
+                        <export_setting>N</export_setting>
+                    </item>
+                    <item id="api_secret">
+                        <name>Api Secret</name>
+                        <type>input</type>
+                        <export_setting>N</export_setting>
+                    </item>
+                    <item id="enable_test_mode">
+                        <name>Enable Test Mode</name>
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="transaction_type">
+                        <name>Transaction Type</name>
+                        <type>selectbox</type>
+                        <variants>
+                            <item id="authorize">
+                                <name>Authorize</name>
+                            </item>
+                            <item id="sale">
+                                <name>Sale</name>
+                            </item>
+                        </variants>
+                    </item>
+                    <item id="success_url">
+                        <name>Success Url</name>
+                        <type>input</type>
+                        <default_value>/index.php?dispatch=payment_notification.standard_notification&amp;payment=viabill&amp;action=success</default_value>
+                    </item>
+                    <item id="cancel_url">
+                        <name>Cancel Url</name>
+                        <type>input</type>
+                        <default_value>/index.php?dispatch=payment_notification.standard_notification&amp;payment=viabill&amp;action=cancel</default_value>
+                    </item>
+                    <item id="callback_url">
+                        <name>Callback Url</name>
+                        <type>input</type>
+                        <default_value>/index.php?dispatch=payment_notification.standard_notification&amp;payment=viabill&amp;action=callback</default_value>
+                    </item>
+                    <item id="transaction_prefix">
+                        <name>Transaction ID prefix</name>
+                        <type>input</type>
+                        <default_value>DK</default_value>
                     </item>
                 </items>
             </section>
