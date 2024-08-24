@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>onafriq_integration</id>
+    <name>ONAFRIQ PSP</name>
+    <supplier>Abdenbi Ouammou</supplier>
+    <status>active</status>
+    <priority>1</priority>
+
+    <functions>
+        <item for="install">fn_onafriq_integration_add_payment_processors</item>
+        <item for="uninstall">fn_onafriq_integration_add_payment_processors</item>
+    </functions>
+
+    <settings edition_type="ROOT,STOREFRONT">
+        <sections>
+            <section id="general">
+                <name>General</name>
+                <items>
+                    <item id="base_url">
+                        <name>Base URL</name>
+                        <type>input</type>
+                        <default>https://api.onafriq.com/api</default>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+</addon>
