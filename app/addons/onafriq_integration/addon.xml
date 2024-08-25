@@ -8,7 +8,7 @@
 
     <functions>
         <item for="install">fn_onafriq_integration_add_payment_processors</item>
-        <item for="uninstall">fn_onafriq_integration_add_payment_processors</item>
+        <item for="uninstall">fn_onafriq_integration_delete_payment_processors</item>
     </functions>
 
     <settings edition_type="ROOT,STOREFRONT">

@@ -1,0 +1,269 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::name::wk_mfs_africa"
+msgid "Pay with Mobile Money"
+msgstr "Pay with Mobile Money"
+
+msgctxt "Addons::description::wk_mfs_africa"
+msgid "This add-on works with checkout for payment in CS-Cart via MFS Africa."
+msgstr "This add-on works with checkout for payment in CS-Cart via MFS Africa."
+
+msgctxt "Languages::wk_mfs_africa_name"
+msgid "Pay with Mobile Money"
+msgstr "Pay with Mobile Money"
+
+msgctxt "Languages::wk_mfs_africa"
+msgid "MFS Africa"
+msgstr "MFS Africa"
+
+msgctxt "Languages::contact_to_admin"
+msgid "Contact to Admin"
+msgstr "Contact to Admin"
+
+msgctxt "Languages::name_length"
+msgid "Customer name must be atleast 3 character"
+msgstr "Customer name must be atleast 3 character"
+
+msgctxt "Addons::description:wk_mfs_africa"
+msgctxt "Languages::wk_mfs_africa_menu_description"
+msgid "Make Here a Full or Partial Refund of Those Order Payments Made By Stripe."
+msgstr "Make Here a Full or Partial Refund of Those Order Payments Made By Stripe."
+
+msgctxt "Languages::notify"
+msgid "NOTIFY"
+msgstr "NOTIFY"
+
+msgctxt "Languages::transection_id"
+msgid "Transaction Id"
+msgstr "Transaction Id"
+
+msgctxt "Languages::amount"
+msgid "Amount"
+msgstr "Amount"
+
+msgctxt "Languages::succeeded"
+msgid "Success"
+msgstr "Success"
+
+msgctxt "Languages::wk_webkul_user_guide_content"
+msgid "Congratulations!!! <b>[addon_name]</b> Add-on is successfully installed. <ul class='inline social-share'><li><a href='[support_link]' target='_blank' class='uibutton large confirm'>Support Link</a></li><li><a href='[user_guide]' class='uibutton large confirm' target='_blank'>User Guide</a></li></ul>"
+msgstr "Congratulation!! <b>[addon_name]</b> Add-on is successfully installed. <ul class='inline social-share'><li><a href='[support_link]' target='_blank' class='uibutton large confirm'>Support Link</a></li><li><a href='[user_guide]' class='uibutton large confirm' target='_blank'>User Guide</a></li></ul>"
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_order_status"
+msgid "choose default order status when new order is placed through stripe"
+msgstr "Choose default order status when new order is placed through stripe"
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_company_logo"
+msgid "company logo which will be displayed on stripe payment form (you can write here web url or file path)"
+msgstr "Company logo which will be displayed on stripe payment form (you can write here web url or file path)"
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_company_description"
+msgid "company description for stripe payment form"
+msgstr "Company description for stripe payment form"
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_company_name"
+msgid "company name which will be shown in stripe payment form"
+msgstr "Company name which will be shown in stripe payment form"
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_stripe_response"
+msgid "if you want to show stripe respose with order details then select "yes" else "no""
+msgstr "If you want to show stripe respose with order details then select "yes" else "no""
+
+msgctxt "Languages::tt_views_payments_components_cc_processors_stripe_currency"
+msgid "choose payment currency here"
+msgstr "Choose payment currency here"
+
+msgctxt "SettingsTooltips::wk_mfs_africa::test_api_token"
+msgid "Enter Here Test API Token."
+msgstr "Enter Here Test API Token."
+
+msgctxt "SettingsTooltips::wk_mfs_africa::api_token"
+msgid "Enter Here API Token"
+msgstr "Enter Here API Token"
+
+msgctxt "SettingsTooltips::wk_mfs_africa::payment_type"
+msgid "Select Payment Solutions Type"
+msgstr "Select Payment Solutions Type"
+
+msgctxt "SettingsTooltips::wk_mfs_africa::wallet_id"
+msgid "Enter Wallet Id"
+msgstr "Enter Wallet Id"
+
+msgctxt "SettingsOptions::wk_mfs_africa::api_token"
+msgid "API Token"
+msgstr "API Token"
+
+msgctxt "SettingsOptions::wk_mfs_africa::payment_type"
+msgid "Payment Type"
+msgstr "Payment Type"
+
+msgctxt "SettingsOptions::wk_mfs_africa::wallet_id"
+msgid "Wallet Id"
+msgstr "Wallet Id"
+
+msgctxt "SettingsOptions::wk_mfs_africa::live_api_token"
+msgid "API Token."
+msgstr "API Token."
+
+msgctxt "SettingsTooltips::wk_mfs_africa::mode"
+msgid "Mode"
+msgstr "Mode"
+
+msgctxt "SettingsOptions::wk_mfs_africa::test_api_token"
+msgid "Test API Token"
+msgstr "Test API Token"
+
+
+
+msgctxt "SettingsOptions::wk_mfs_africa::mode"
+msgid "Mode"
+msgstr "Mode"
+
+msgctxt "SettingsOptions::wk_mfs_africa::live_api_token"
+msgid "Live API Token"
+msgstr "Live API Token"
+
+msgctxt "SettingsSections::wk_mfs_africa::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::wk_mfs_africa::vendor_payment_time"
+msgid "Specific time after that vendor payment can be processed"
+msgstr "Specific time after that vendor payment can be processed"
+
+msgctxt "SettingsTooltips::wk_mfs_africa::after_days"
+msgid "Enter the number of days after that vendor payment can be processed"
+msgstr "Enter the number of days after that vendor payment can be processed"
+
+msgctxt "SettingsOptions::wk_mfs_africa::after_days"
+msgid "Enter number of days"
+msgstr "Enter number of days"
+
+msgctxt "SettingsTooltips::wk_mfs_africa::after_hours"
+msgid "Enter the number of hours after that vendor payment can be processed"
+msgstr "Enter the number of hours after that vendor payment can be processed"
+
+msgctxt "SettingsOptions::wk_mfs_africa::after_hours"
+msgid "Enter number of hours"
+msgstr "Enter number of hours"
+
+msgctxt "Languages::yes"
+msgid "YES"
+msgstr "YES"
+
+msgctxt "Languages::wk_mfs_africa.vendor_payment_requests"
+msgid "View Vendor Orders(Mobile Money)"
+msgstr "View Vendor Orders(Mobile Money)"
+
+msgctxt "Languages::wk_mfs.vendor_payment_requests"
+msgid "Orders(Mobile Money)"
+msgstr "Orders(Mobile Money)"
+
+msgctxt "Languages::wk_mfs.vendor_payment_request"
+msgid "View Orders for MFS Africa Payment Method"
+msgstr "View Orders for MFS Africa Payment Method"
+
+msgctxt "Languages::click_to_pay"
+msgid "Click Here For Payment"
+msgstr "Click Here For Payment"
+
+msgctxt "Languages::paid"
+msgid "Paid"
+msgstr "Paid"
+
+msgctxt "Languages::unpaid"
+msgid "Unpaid"
+msgstr "Unpaid"
+
+msgctxt "Languages::processing"
+msgid "Processing"
+msgstr "Processing"
+
+msgctxt "Languages::mfs_vendor_payment"
+msgid "Mobile Money Vendor Payment"
+msgstr "Mobile Money Vendor Payment"
+
+msgctxt "Languages::phone_number_payment"
+msgid "Vendor Phone Number"
+msgstr "Vendor Phone Number"
+
+msgctxt "Languages::yes"
+msgid "YES"
+msgstr "YES"
+
+msgctxt "Languages::no"
+msgid "NO"
+msgstr "NO"
+
+msgctxt "Languages::phone_unverified"
+msgid "Phone Number is not added"
+msgstr "Phone Number is not added"
+
+msgctxt "Languages::phone_verified"
+msgid "Phone Number is added"
+msgstr "Phone Number is added"
+
+msgctxt "Languages::phone_change_number"
+msgid "Error! Update or Reverify"
+msgstr "Error! Update or Reverify"
+
+msgctxt "Languages::click_to_change_or_verify"
+msgid "Click Here to update or verify phone number"
+msgstr "Click Here to update or verify phone number"
+
+msgctxt "Languages::mfs_vendor_phone"
+msgid "Update or Verify Phone Number"
+msgstr "Update or Verify Phone Number"
+
+msgctxt "Languages::phone_number_status"
+msgid "Phone Number Status"
+msgstr "Phone Number Status"
+
+msgctxt "Languages::phone_number_update_link"
+msgid "Update or Verify Phone Number"
+msgstr "Update or Verify Phone Number"
+
+msgctxt "Languages::phone_number"
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgctxt "Languages::success"
+msgid "Success"
+msgstr "Success"
+
+msgctxt "Languages::update_your_number_then_payment"
+msgid "Phone Number is not added or verified at mobile money network please update first then proceed to payment"
+msgstr "Phone Number is not added or verified at mobile money network please update first then proceed to payment"
+
+msgctxt "Languages::already_added_and_verified"
+msgid "Phone Number Already added and verified"
+msgstr "Phone Number Already added and verified"
+
+msgctxt "Languages::already_added_and_notverified"
+msgid "Phone Number added but not verified"
+msgstr "Phone Number added but not verified"
+
+msgctxt "Languages::wait_for_sometime"
+msgid "Wait for sometime, phone number will be verified shortly"
+msgstr "Wait for sometime, phone number will be verified shortly"
+
+msgctxt "Languages::something_went_wrong"
+msgid "Something Went Wrong"
+msgstr "Something Went Wrong"
+
+msgctxt "Languages::verify_details"
+msgid "Verify all the details which are shown below then update phone number on the mobile money network:"
+msgstr "Verify all the details which are shown below then update phone number on the mobile money network:"
+
+msgctxt "Languages::error_mfs_mobile_number_not_supported"
+msgid "Phone number is not supported on MFS Africa Network, please re-verify your phone number and try again."
+msgstr "Phone number is not supported on MFS Africa Network, please re-verify your phone number and try again."
